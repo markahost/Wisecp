@@ -1,0 +1,2 @@
+# Wisecp
+wisecp modülümüz
